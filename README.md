@@ -6,7 +6,7 @@
 
 - 🦙 Meta's LLaMA 3.1 8B (via HuggingFace)
   
-- 🪶 Unsloth for fast, memory-efficient fine-tuning
+-  Unsloth for fast, memory-efficient fine-tuning
   
 - 🧠 PEFT + QLoRA for parameter-efficient fine-tuning
   
